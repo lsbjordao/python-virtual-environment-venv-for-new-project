@@ -4,7 +4,7 @@ For Windows.
 
 ## Creating a new environment
 
-Access the directory in which the project will be created, and type:
+Access the directory in which the project needs to be created, and type:
 
 ```bash
 python -m venv projectName
